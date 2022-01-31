@@ -1,0 +1,6 @@
+git clone [caminho do github] - clona a base de dados do git
+git checkout [nome branch] - sai da branch atual e cria um caminho pra branch escrita
+git status - ve o status de onde vc tá
+cd [caminho na maquina] - os comandos do prompt serão feitos dentro desse caminho
+git fetch origin - verifica as alterações na base
+git rebase [origin/branch] - copia tudo que foi alterado para sua pasta
